@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Sum of all multiples of 3 below 1000</title>
+		</head>
+
+		<body>
+
+			<div>
+				<script>
+					/*var result = 3;
+					var total = 0;
+					for (var counter = 3; counter < 1000; counter = counter + 3){
+						  result = result + 3;
+						  total += result;
+						}
+						print(total);*/
+						//This gives a value of 1002.  It should be 166833.
+						//I think I need to:
+						//Run the for loop
+						//Populate an array with each value from the loop stored as an element 
+						//Then access the values in the array with another for loop that adds them all together to get the sum.
+/*var total = 0;
+var result= 0;
+var multiple = 1;
+while (result < 1000){
+  result = 3*multiple;
+  multiple++;
+  total += result;
+}
+  print(total)*/
+
+var total = 0;
+var result= 0;
+var multiple = 1;
+do {
+  result = 3*multiple;
+  multiple++;
+  if (result < 1000){
+  total += result;
+}
+}
+while (result < 1000);
+alert(total);
+				</script>
+			</div>
+		</body>
+	</html>
