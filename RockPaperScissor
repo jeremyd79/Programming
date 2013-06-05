@@ -30,6 +30,7 @@
 				function compare(choice1, choice2){/*Declare a function with the name compare and give it two arguments to compare using a series of conditional if/else statements in the body.*/
 					if(choice1===choice2){
 						alert("It is a tie.");
+						return;/*To end the function if the result is a tie*/
 					}
 					 if (choice1==="rock") {
 				        if (choice2==="scissor") {
@@ -58,6 +59,5 @@
 				
 				</script>
 			</div>
-
 		</body>
 	</html>
