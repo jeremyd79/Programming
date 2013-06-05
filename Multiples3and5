@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Sum of all multiples of 3 or 5 below 1000</title>
+			
+		</head>
+
+		<body>
+
+			<!-- This file provides a solution to Problem 1 on ProjectEuler.net which states:  "If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.  Find the sum of all the multiples of 3 or 5 below 1000.-->
+
+
+			<div>
+
+				<script>
+						var result = 0;
+						for (var counter = 0; counter < 1000; counter++) {
+							if (counter % 3 === 0 || counter % 5 === 0)
+								result = result + counter;
+						}
+						alert("The sum of all the multiples of 3 or 5 below 1000 is:  " + result);
+
+						/*
+						Declare a global variable "result" and define it by making it equal to 0. 	The value of "result" begins at 0 when the function is called.
+						
+						Write a "for" loop function
+							Declare a local variable "counter" and define it by making it equal to 0
+								This initializes the loop at 0 (ie. it causes it to start at 0)
+							Set the counter < 1000, which checks whether the loop should continue
+								This establishes the limit of the loop
+							Set counter to increment at ++ 
+								Causes the value of counter to increase by an increment of 1 for following each loop
+						
+						Write an "if" statement wherein:
+							The left expression "counter" is divided by 3 and the remainder is made equal to 0
+							The right expression "counter" is divided by 5 and the remainder is made equal to 0
+							Use the "or" operator to compare the values of the remainders.
+						
+						If the remainder of "counter" is 0 when divided by either 3, 5, or both the statement withing the code box will be executed.
+						
+						Write a statement that adds the value of "counter" to the value of "result" 
+						"Result" is the value of the sum of all "counters" produced by each loop
+						
+						Call the "for" loop function using the function "alert" which retrieves the value caught by "result" and displays it in a dialog window in the browser environment
+						*/
+
+				</script>
+			</div>
+		</body>
+	</html>

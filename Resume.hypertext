@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Resume-Jeremy Draper</title>
+			<link type="text/css" rel="stylesheet" href="Resume.stylesheet"/>
+		</head>
+
+		<body>
+
+			<!--The Header Section-->
+			<div id="header">
+					<p id="name">Jeremiah M. Draper, PhD, MBA</p>
+					<a href="mailto:draper.jeremy@ymail.com"><p id="email">draper.jeremy@ymail.com</p></a>
+			</div>
+
+			<!--The Left Float Section-->
+			<div id="left">
+			</div>
+
+			<!--The Right Float Section-->
+			<div id="right">
+				<h1>Objective</h1>
+					<p>To obtain an apprentice programmer position with Jack Russell Software where I can expand my programming skills, gain experience working in a team development environment, and contribute to the development of novel applications for HealthcareIT.
+					</p>
+
+				<h1>Skills</h1>
+					<p>Languages:  HTML, CSS, JavaScript
+					   <br>Frameworks:
+					</p>
+
+				<h1>Work History</h1>
+					<p><strong>Director of Business Development</strong>
+						<br>VaxyGen Holdings, LLC, Charleston, SC
+						<br>2011 - 2013
+						<br>
+						<br><em>VaxyGen Holdings, LLC is the parent company of VaxyGen Manufacturing Service (VMS), VaxyGen Assay Services and VaxyGen Vaccines, Ltd.</em>  
+						<br><em>Won contract service agreements with multiple clients, formed research collaborations with several partners, and competed for the acquisition/licensing of marketed vaccines</em>
+						<br>
+					</p>
+					<ul>
+						<li>Managed the due diligence and negotiation processes related to the potential acquisition of a $70 million net revenue vaccine from Pfizer and in-licensing of a $15 million vaccine from Massachusetts Biologic Laboratories</li>
+						<li>Established web server and email accounts with iPage.com</li>
+						<li>Identified and engaged potential clients via market research and networking</li>
+						<li>Developed marketing materials including brochures and presentations by interacting with prospective clients, determining their needs, and incorporating relevant findings</li>
+						<li>Delivered presentations with clients and collaborators focused on the benefits of our patent-pending upstream and downstream processing technologies</li>
+						<li>Assisted in the negotiation of service agreements related to the production of vaccine components and the development of a supply chain network</li>
+						<li>Coordinated activities with external clients and organizations including Lonza, GeoVax Labs, Pfizer, Crucell, Massachusetts Biologic Laboratories, Cardinal Health, Panalpina and Georgia State University</li>
+						<li>Conducted intra- and inter-organizational meetings in-person and via teleconference</li>
+					</ul>
+					<br>
+
+					<p><strong>Senior Research Scientist</strong>
+						<br>Vortex Biotechnology Corporation, Charleston, SC
+						<br>2010 - 2011
+						<br>
+						<br><em>Vortex Biotechnology Corporation is an oncology product development company</em>  
+						<br><em>Competed for and won government funding for the development of novel anticancer drugs</em>
+						<br>
+					</p>
+					<ul>
+						<li>Managed business activities of the company including payroll, accounting, acquisitions and the completion of tasks according to project guidelines
+						</li>
+						<li>Optimized assays for use in small molecule drug screens</li>
+						<li>Evaluated in vitro activity and toxicity of lead compounds in multiple cell culture and animal models</li>
+						<li>Authored Phase I SBIR grant application</li>
+					</ul>
+					<br>
+
+					<p><strong>Postdoctoral Scholar</strong>
+						<br>Drug Discovery Core
+						<br>Department of Pharmaceutical and Biomedical Sciences
+						<br>Medical University of South Carolina, Charleston, SC
+						<br>2008 - 2010
+						<br>
+						<br><em>The Drug Discovery Core facility of the Medical University of South Carolina provides services to assist academic researchers in the discovery and development of novel small molecule drugs.</em>  
+						<br>
+					</p>
+					<ul>
+						<li>Determined client needs by interacting with points of contact and establishing project requirements and limitations</li>
+						<li>Designed and developed small molecule screens to meet specific client needs</li> 
+						<li>Implemented small molecule screens and data analysis</li>
+						<li>Validated activity of small molecule inhibitors in multiple cell culture and animal models</li>
+						<li>Delivered finished data and advised clients on the selection of lead compounds for further development</li>
+					</ul>
+
+				<h1>Education</h1>
+					<p>
+						<strong>Doctor of Philosophy, Pharmacology</strong>
+						<br>Pennsylvania State University, Hershey, PA, 2008
+						<br>
+						<br><strong>Master of Business Administration</strong>
+						<br>Pennsylvania State University, Harrisburg, PA, 2006
+						<br>
+						<br><strong>Master of Science, Biology</strong>
+						<br>Bucknell University, Lewisburg, PA, 2003
+						<br>
+						<br><strong>Bachelor of Science, Biology</strong>
+						<br>Bucknell University, Lewisburg, PA, 2001
+					</p>
+
+				<h1>Other</h1>
+					<p><strong>Co-founder</strong>
+						<br>Tritide, LLC, Charleston, SC
+						<br>2012 - Present
+						<br>
+						<br><em>Tritide, LLC is a web development company focused on the production of sports-related social media websites</em>  
+						<br>
+					</p>
+					<ul>
+						<li>Overseeing the design and development of website</li>
+						<li>Optimizing marketing of site to target customers</li>
+					</ul>
+					<br>
+
+					<p><strong>Supplemental Instructor</strong>
+						<br>The Pennsylvania State University College of Medicine, Hershey, PA
+						<br>2006 
+						<br>
+					</p>
+					<ul>
+						<li>Conducted medical student review sessions on the causes and treatments of various conditions</li>
+					</ul>
+					<br>
+
+					<p><strong>Publications:</strong>  Six peer-reviewed publications (list available upon request)</p>
+					<br>
+					<br>
+
+					<p><strong>Patents:</strong>  Inhibitors of Human Ceramidase, pending (provisional filed)</p>
+
+				<h1>References</h1>
+					<p>Available upon request</p>
+			</div>
+
+			<!--The Footer Section-->
+			<div id="footer">
+				<p>
+					126 Sea Cotton Circle, Charleston, SC 29412
+					<br>Tel: (717)805-6110
+				</p> 
+			</div>
+
+		</body>
+	</html>

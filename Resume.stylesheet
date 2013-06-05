@@ -1,0 +1,89 @@
+/*The Header Section*/
+/*This section contains the name and email address information*/
+#header {
+	Z-index: 1;
+	position:fixed;
+	width:96.8%;
+	margin-left: 10px;
+	background-color:#0000cc;
+	height:75px;
+	border-radius:10px;
+	box-shadow: 0px 1px 50px blue;
+	top:0px;
+}
+	#name {
+		float:left;
+		position:relative;
+		margin:auto;
+		margin-left:10px;
+		font-size:48px;
+		font-family:Calibri, Serif;
+		color:#ffffff;
+	}
+
+	#email {
+		float:right;
+		margin:15px;
+		padding-top: 5px;
+		font-size: 24px;
+		font-family: Verdana, sans-serif;
+		color:#ffffff;
+	}
+
+	a:hover {
+	font-weight: bold;
+	}
+
+/*The Left Floating Section*/
+#left {
+	float:left;
+	width:10%;
+	height:2160px;
+	background-color:#cccccc;
+	margin:90px 5px 10px 10px;
+	border-radius:10px;
+}
+
+
+/*The Right Floating Section*/
+/*This section contains the main body components of the resume such as my objective, skills, work history, education and etc.*/
+#right {
+	float:right;
+	width:87%;
+	height:2160px;
+	margin:90px 17px 10px 5px;
+	background-color:#999999;
+	border-radius:10px;
+}
+
+	h1 {
+		margin-top:30px;
+		margin-left:10px;
+		font-family:Calibri, Serif;
+	}
+
+	p {
+		margin:-10px 0px 0px 12px;
+		font-family:Garamond, Serif;
+		font-size:20px;
+	}
+
+/*The Footer Section*/
+/*This section contains my address and telephone number*/
+#footer {
+	position: relative;
+	bottom: -20px;
+	height: 75px;
+	width:98.1%;
+	margin-left: 10px;
+	border-radius:10px;
+	background-color: #000000;
+    clear:both;
+}
+
+	#footer p {
+		position: relative;
+		color: #ffffff;
+		text-align: center;
+		padding-top: 15px;
+	}
